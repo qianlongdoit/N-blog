@@ -1,6 +1,6 @@
 # N-blog
 使用node、mongoose、express搭建的博客系统
-参考自[n-blog][https://github.com/nswbmw/N-blog]
+参考自[n-blog](https://github.com/nswbmw/N-blog)
 
 学习mongoose中schema的过程、以及加深对express的学习、服务端的认识、
 
